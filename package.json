@@ -20,8 +20,8 @@
   "license": "MIT",
   "main": "packages/index.js",
   "engines": {
-    "node": ">=16",
-    "pnpm": ">=6.35"
+    "node": ">=18",
+    "pnpm": ">=8.0"
   },
   "scripts": {
     "dev2": "pnpm -C demos/vue2-app dev ",
